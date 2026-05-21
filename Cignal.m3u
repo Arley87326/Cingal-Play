@@ -7,11 +7,11 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports+_hd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/animal-planet.svg" group-title="PH | CIGNAL PLAY", Animal Planet HD
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/nickelodeon_hd_191.png" group-title="PH | CIGNAL PLAY", Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/nickelodeon_hd_191.png" group-title="PH | KIDS", Nickelodeon HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
-#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/nickjr_189.png" group-title="PH | CIGNAL PLAY", Nick Jr HD
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/nickjr_189.png" group-title="PH | KIDS", Nick Jr HD
 https://converse.nathcreqtives.com/channels/unifi-nickjr/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjZXNzMTk0ZzEzIiwiaWF0IjoxNzc4MjU2NzMyLCJleHAiOjE3ODA4NDg3MzIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc4MDg0ODczMiwiYWxsb3dlZE9yaWdpbnMiOlsiaHR0cHM6Ly9peWFkdHYucGFnZXMuZGV2IiwiaHR0cHM6Ly9ub3h0di5wYWdlcy5kZXYiLCJodHRwczovL2l5YWQuY3Qud3MiLCJodHRwczovL2l5YWRpeC5mcmVlLm5mIiwiaHR0cHM6Ly9peWFkLnNwYWNlIiwiaHR0cHM6Ly9zdHJlYW1wbGF5ZXIucGFnZXMuZGV2Il19._Dv2iOoBXjlC7VZU8QzOaCRqKjM9T4rHILCUybo8_-s
-#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/hgtv_hd_130.png" group-title="PH | CIGNAL PLAY", HGTV HD
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/hgtv_hd_130.png" group-title="PH | LIFESTYLE", HGTV HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 #EXTINF:-1 tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="PH | HBO GROUP", HBO HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
@@ -37,3 +37,35 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="PH | SPORTS", SPOTV 2 HD
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/cbeebies.png" group-title="PH | KIDS", CBeebies HD
+https://conv.iyad.space/move3/CbeebiesHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.bbcasia.com/sites/default/files/2023-09/BBC-Earth-YouTube-Stacked.png" group-title="PH | ENTERTAINMENT", BBC Earth HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
+#EXTINF;-1 tvg-logo="https://iyadtv.pages.dev/images/bbc_lifestyle_35.png" group-title="PH | LIFESTYLE", BBC Lifestyle HD
+https://converse.nathcreqtives.com/channels/unifi-bbc-lifestyle/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjZXNzMTk0ZzEzIiwiaWF0IjoxNzc4MjU2NzMyLCJleHAiOjE3ODA4NDg3MzIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc4MDg0ODczMiwiYWxsb3dlZE9yaWdpbnMiOlsiaHR0cHM6Ly9peWFkdHYucGFnZXMuZGV2IiwiaHR0cHM6Ly9ub3h0di5wYWdlcy5kZXYiLCJodHRwczovL2l5YWQuY3Qud3MiLCJodHRwczovL2l5YWRpeC5mcmVlLm5mIiwiaHR0cHM6Ly9peWFkLnNwYWNlIiwiaHR0cHM6Ly9zdHJlYW1wbGF5ZXIucGFnZXMuZGV2Il19._Dv2iOoBXjlC7VZU8QzOaCRqKjM9T4rHILCUybo8_-s
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/bbc_world_news_36.png" group-title="PH | NEWS", BBC World News HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/warner_tv__279.png" group-title="PH | ENTERTAINMENT", Warner TV HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/food_network_hd_100.png" group-title="PH | LIFESTYLE", Food Network HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/kix_hd_154.png" group-title="PH | MOVIES", KIX HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/rock-action.avif" group-title="PH | MOVIES", Rock Action HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/rock-entertainment.avif" group-title="PH | ENTERTAINMENT", Rock Entertainment HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/axn_30.png" group-title="PH | ENTERTAINMENT", AXN HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/animax.svg" group-title="PH | KIDS", Aniamx HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/cartoonito_46.png" group-title="PH | KIDS", Cartoonito HD
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-logo-"https://iyadtv.pages.dev/images/cartoon_network_48.png" group-title="PH | KIDS", Cartoon Network HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/discovery-channel.svg" group-title="PH | LIFESTYLE", Discovery Channels HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/discovery_asia_71.png" group-title=PH | LIFESTYLE", Discovery Asia HD
+https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/asian_food_network_29.png" group-title="PH | LIFESTYLE", Asian Food Network HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
