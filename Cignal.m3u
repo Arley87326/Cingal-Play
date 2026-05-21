@@ -7,3 +7,9 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports+_hd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/animal-planet.svg" group-title="PH | CIGNAL PLAY", Animal Planet HD
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/nickelodeon_hd_191.png" group-title="PH | CIGNAL PLAY", Nickelodeon HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/nickjr_189.png" group-title="PH | CIGNAL PLAY", Nick Jr HD
+https://converse.nathcreqtives.com/channels/unifi-nickjr/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjZXNzMTk0ZzEzIiwiaWF0IjoxNzc4MjU2NzMyLCJleHAiOjE3ODA4NDg3MzIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc4MDg0ODczMiwiYWxsb3dlZE9yaWdpbnMiOlsiaHR0cHM6Ly9peWFkdHYucGFnZXMuZGV2IiwiaHR0cHM6Ly9ub3h0di5wYWdlcy5kZXYiLCJodHRwczovL2l5YWQuY3Qud3MiLCJodHRwczovL2l5YWRpeC5mcmVlLm5mIiwiaHR0cHM6Ly9peWFkLnNwYWNlIiwiaHR0cHM6Ly9zdHJlYW1wbGF5ZXIucGFnZXMuZGV2Il19._Dv2iOoBXjlC7VZU8QzOaCRqKjM9T4rHILCUybo8_-s
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/hgtv_hd_130.png" group-title="PH | CIGNAL PLAY", HGTV HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
