@@ -41,7 +41,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 https://conv.iyad.space/move3/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.bbcasia.com/sites/default/files/2023-09/BBC-Earth-YouTube-Stacked.png" group-title="PH | ENTERTAINMENT", BBC Earth HD
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
-#EXTINF;-1 tvg-logo="https://iyadtv.pages.dev/images/bbc_lifestyle_35.png" group-title="PH | LIFESTYLE", BBC Lifestyle HD
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/bbc_lifestyle_35.png" group-title="PH | LIFESTYLE", BBC Lifestyle HD
 https://converse.nathcreqtives.com/channels/unifi-bbc-lifestyle/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjZXNzMTk0ZzEzIiwiaWF0IjoxNzc4MjU2NzMyLCJleHAiOjE3ODA4NDg3MzIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc4MDg0ODczMiwiYWxsb3dlZE9yaWdpbnMiOlsiaHR0cHM6Ly9peWFkdHYucGFnZXMuZGV2IiwiaHR0cHM6Ly9ub3h0di5wYWdlcy5kZXYiLCJodHRwczovL2l5YWQuY3Qud3MiLCJodHRwczovL2l5YWRpeC5mcmVlLm5mIiwiaHR0cHM6Ly9peWFkLnNwYWNlIiwiaHR0cHM6Ly9zdHJlYW1wbGF5ZXIucGFnZXMuZGV2Il19._Dv2iOoBXjlC7VZU8QzOaCRqKjM9T4rHILCUybo8_-s
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/bbc_world_news_36.png" group-title="PH | NEWS", BBC World News HD
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
@@ -69,3 +69,15 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mp
 https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/asian_food_network_29.png" group-title="PH | LIFESTYLE", Asian Food Network HD
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/dreamworks_hd_85.png" group-title="PH | KIDS", Dreamworks HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/dreamworks_tagalized_86.png" group-title", Dreamworks Tagalized HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/abc_australia_6.png" group-title="PH | NEWS", ABC Australia HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/gtv_114.png" group-title="PH | CIGNAL PLAY", GTV HD
+https://converse.nathcreqtives.com/channels/gtv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjZXNzMTk0ZzEzIiwiaWF0IjoxNzc4MjU2NzMyLCJleHAiOjE3ODA4NDg3MzIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc4MDg0ODczMiwiYWxsb3dlZE9yaWdpbnMiOlsiaHR0cHM6Ly9peWFkdHYucGFnZXMuZGV2IiwiaHR0cHM6Ly9ub3h0di5wYWdlcy5kZXYiLCJodHRwczovL2l5YWQuY3Qud3MiLCJodHRwczovL2l5YWRpeC5mcmVlLm5mIiwiaHR0cHM6Ly9peWFkLnNwYWNlIiwiaHR0cHM6Ly9zdHJlYW1wbGF5ZXIucGFnZXMuZGV2Il19._Dv2iOoBXjlC7VZU8QzOaCRqKjM9T4rHILCUybo8_-s
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/a2z_4.png" group-title="PH | CIGNAL PLAY", A2Z HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/tv5.svg" group-title="PH | CIGNAL PLAY", TV5 HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
