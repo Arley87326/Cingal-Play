@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/One_Sports_%28TV_channel%29#/media/File:One_Sports_logo.svg" group-title="PH | CIGNAL PLAY", One Sports HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/One_PH#/media/File:OnePHCignal.svg" group-title="PH | CIGNAL PLAY", One PH HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/One_Sports_%28TV_channel%29#/media/File:One_Sports_logo.svg" group-title="PH | CIGNAL PLAY", One Sports + HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports+_hd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/animal-planet.svg" group-title="PH | CIGNAL PLAY", Animal Planet HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
