@@ -83,3 +83,13 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/nhk_world_japan_188.png" group-title="PH | NEWS", NHK World Japan HD
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/pinoy_box_office_210.png" group-title="PH | CIGNAL PLAY", PBO (Pinoy Box Office) HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/tap_movies_251.png" group-title="PH | MOVIES", Tap Movies HD
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/tap_tv_252.png" group-title="PH | CIGNAL PLAY", TAP TV HD
+https://conv.iyad.space/1149/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/tap_sports_250.png" group-title="PH | SPORTS", TAP Sports HD
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/rptv_226.png" group-title="PH | CIGNAL PLAY", RPTV HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
