@@ -57,7 +57,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/ind
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/axn_30.png" group-title="PH | ENTERTAINMENT", AXN HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/animax.svg" group-title="PH | KIDS", Aniamx HD
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/animax.svg" group-title="PH | KIDS", Animax HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/cartoonito_46.png" group-title="PH | KIDS", Cartoonito HD
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
@@ -65,13 +65,13 @@ https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/discovery-channel.svg" group-title="PH | LIFESTYLE", Discovery Channels HD
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
-#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/discovery_asia_71.png" group-title=PH | LIFESTYLE", Discovery Asia HD
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/discovery_asia_71.png" group-title="PH | LIFESTYLE", Discovery Asia HD
 https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/asian_food_network_29.png" group-title="PH | LIFESTYLE", Asian Food Network HD
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/dreamworks_hd_85.png" group-title="PH | KIDS", Dreamworks HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
-#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/dreamworks_tagalized_86.png" group-title", Dreamworks Tagalized HD
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/dreamworks_tagalized_86.png" group-title"PH | KIDS", Dreamworks Tagalized HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/abc_australia_6.png" group-title="PH | NEWS", ABC Australia HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
@@ -81,3 +81,5 @@ https://converse.nathcreqtives.com/channels/gtv/playlist.m3u8?token=eyJhbGciOiJI
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/tv5.svg" group-title="PH | CIGNAL PLAY", TV5 HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+#EXTINF:-1 tvg-logo="https://iyadtv.pages.dev/images/nhk_world_japan_188.png" group-title="PH | NEWS", NHK World Japan HD
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
